@@ -21,7 +21,7 @@ To get started with the TypingGame repo, follow these steps:
 
 ## Customization
 
-You can customize the game by modifying the following variables in the `script.js` file:
+You can customize the game by modifying the following variables in the `index.js` file:
 
 1. `timeLimit`: The amount of time in seconds that the user has to type each word.
 2. `scoreIncrement`: The number of points the user earns for typing a word correctly.
